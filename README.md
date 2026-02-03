@@ -1,1 +1,3 @@
+# When Priors Backfire: On the Vulnerability of Unlearnable Examples to Pretraining
+Code for ICLR 2026 Paper "When Priors Backfire: On the Vulnerability of Unlearnable Examples to Pretraining" by Zhihao Li, Gezheng Xu, Jiale Cai, Ruiyi Fang, Di Wu, Qicheng Lao, Charles Ling, Boyu Wang.
 # Coming Soon...
